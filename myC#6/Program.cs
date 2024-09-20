@@ -33,6 +33,12 @@ namespace myC_6
             //string q = Yerkarutyun(x, s);
 
             Console.WriteLine("havayi ban");
+
+
+
+
+
+            Console.WriteLine("aaaaaaaaaaaaaaaaaaaaaaaaaaaa");
             //for (int i = 0; i < x.Length; i++)
             //{
             //    Console.WriteLine(x[i]);
