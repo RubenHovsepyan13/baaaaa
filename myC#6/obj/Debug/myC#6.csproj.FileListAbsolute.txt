@@ -1,0 +1,7 @@
+C:\Users\MyASUS\source\repos\myC#6\myC#6\bin\Debug\myC#6.exe.config
+C:\Users\MyASUS\source\repos\myC#6\myC#6\bin\Debug\myC#6.exe
+C:\Users\MyASUS\source\repos\myC#6\myC#6\bin\Debug\myC#6.pdb
+C:\Users\MyASUS\source\repos\myC#6\myC#6\obj\Debug\myC#6.csproj.AssemblyReference.cache
+C:\Users\MyASUS\source\repos\myC#6\myC#6\obj\Debug\myC#6.csproj.CoreCompileInputs.cache
+C:\Users\MyASUS\source\repos\myC#6\myC#6\obj\Debug\myC#6.exe
+C:\Users\MyASUS\source\repos\myC#6\myC#6\obj\Debug\myC#6.pdb
