@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -29,7 +30,9 @@ namespace myC_6
             //MetyiGumar(c);
             //ToxiGumar(g);
             //int[]x = Zangvac(a, c);
-           string q = Yerkarutyun(x, s);
+            //string q = Yerkarutyun(x, s);
+
+            Console.WriteLine("havayi ban");
             //for (int i = 0; i < x.Length; i++)
             //{
             //    Console.WriteLine(x[i]);
@@ -294,15 +297,18 @@ namespace myC_6
 
             return z;
         }
-        public static string[] Yerkarutyun(string[] x, string[]y)
-        {
-            string f;
-            for (int i = 0;i < x.Length; i++)
-            {
+
+
+        
+        //public static string[] Yerkarutyun(string[] x, string[]y)
+        //{
+        //    string f;
+        //    for (int i = 0;i < x.Length; i++)
+        //    {
                  
                 
-            } 
+        //    } 
             
-        }
+        //}
     }
 }
